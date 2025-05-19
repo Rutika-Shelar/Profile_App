@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ProfileApp</string>
+
+
+    <string name="profile">Profile</string>
+    <string name="member_since_2020">Member since 2020</string>
+    <string name="get_to_know_your_vehicles_inside_out">Get to know your vehicles, inside out</string>
+    <string name="cred_garage">CRED Garage</string>
+    <string name="arrow">arrow</string>
+    <string name="car">car</string>
+    <string name="edit_profile">edit</string>
+    <string name="name">andaz Kumar</string>
+    <string name="back_button">back button</string>
+    <string name="support">support</string>
+    <string name="profile_image">profile_image</string>
+    <string name="transactions_support"><![CDATA[TRANSACTIONS & SUPPORT]]></string>
+    <string name="your_rewards_benefits"><![CDATA[YOUR REWARDS & BENEFITS]]></string>
+    <string name="refresh_available">REFRESH AVAILABLE</string>
+    <string name="_757">757</string>
+    <string name="andaz_kumar">Andaz Kumar</string>
+    <string name="member_since_dec_2020">member since Dec, 2020</string>
+    <string name="lifetime_cashback">lifetime cashback</string>
+    <string name="_3">₹3</string>
+    <string name="check">check</string>
+    <string name="cashback_balance">cashback balance</string>
+    <string name="coins">coins</string>
+    <string name="_26_46_583">26,46,583</string>
+    <string name="win_upto_rs_1000">win upto Rs 1000</string>
+    <string name="refer_and_earn">refer and earn</string>
+    <string name="all_transactions">all transactions</string>
+</resources>
