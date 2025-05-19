@@ -11,7 +11,7 @@ The app uses the **MVVM (Model-View-ViewModel)** architecture and mock data to p
 
 ## Screenshots
 ### Profile Screen
-![Profile Screen](screenshots/profile_app.png)
+![Profile Screen](app/src/main/res/drawable/profile_app.png)
 
 ## Project Structure
 - `model/`: Contains the `UserProfile` class, which represents the user data model.
